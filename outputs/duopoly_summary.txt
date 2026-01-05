@@ -1,0 +1,25 @@
+======================================================================
+MARKET SUMMARY REPORT
+======================================================================
+
+Aggregate Metrics:
+                   Metric    Value
+        Avg Price ($/MWh)    40.32
+Competitive Price ($/MWh)    30.00
+         Price Markup (%)    34.4%
+        Avg Quantity (MW)    595.0
+                      HHI     5227
+             Lerner Index    0.256
+        Price-Cost Margin    0.344
+     Consumer Surplus ($) 18696.51
+     Producer Surplus ($)  4453.41
+        Total Surplus ($) 23149.92
+         Price Volatility    0.317
+                  Is Nash       No
+   Max Nash Deviation ($)  1978.83
+
+Generator-Specific Metrics:
+ Generator  Capacity (MW)  Marginal Cost ($/MWh) Avg Bid ($/MWh) Avg Output (MW) Capacity Factor (%) Avg Profit ($) Lerner Index
+         1            400                     30           22.34           361.0                90.2        4079.93        0.256
+         2            400                     30           35.71           234.1                58.5         373.48        0.256
+======================================================================
